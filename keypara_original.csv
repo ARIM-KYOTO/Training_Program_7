@@ -1,0 +1,24 @@
+Brightness,Brightness
+Dimension,Dimension
+DisplayCalibratedUnits,Display Calibrated Units
+Data0,X_pixel
+Data1,Y_pixel
+DataType,Data Type
+PixelDepth,Pixel Depth
+Acquisition Date,Acquisition Date
+Acquisition Time,Acquisition Time
+Signal Name,Signal Name
+Image Height,Image Height
+Image Width,Image Width
+Integrate Frames,Integrate Frames
+Recorded,Recorded
+Format,Format
+Cs(mm),Cs
+Emission Current (?A),Emission Current (?A)
+Field of View (?m),Field of View (?m)
+Formatted Voltage,Formatted Voltage
+Illumination Mode,Illumination Mode
+Imaging Mode,Imaging Mode
+Imaging Mode,Imaging Mode
+Indicated Magnification,Indicated Magnification
+Operation Mode,Operation Mode
